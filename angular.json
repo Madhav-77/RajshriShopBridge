@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RajshriShopBridge"
+    }
+  },
+  "defaultProject": "RajshriShopBridge",
+  "cli": {
+    "analytics": "f1f97eb5-6ea6-4beb-bf32-0e69a82dfebc"
+  }
 }
